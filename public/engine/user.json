@@ -143,5 +143,121 @@
                 "data": "2024-06-03"
             }
         ]
+    },
+    {
+        "id": 6,
+        "name": "Kauan Davson",
+        "email": "kauandavsondspinheiro@gmail.com",
+        "photoUrl": "https://avatars.githubusercontent.com/u/310377576?s=400&u=3852aa90eb9610a7f71e1d31efa000a86116318a&v=4",
+        "password": "112233",
+        "saldo": 1925,
+        "pontos": 2500,
+        "extrato": [
+            {
+                "id": 1,
+                "descricao": "Compra de produto",
+                "valor": -90,
+                "data": "2024-06-01"
+            },
+            {
+                "id": 2,
+                "descricao": "Depósito",
+                "valor": 250,
+                "data": "2024-06-02"
+            },
+            {
+                "id": 3,
+                "descricao": "Compra de produto",
+                "valor": -120,
+                "data": "2024-06-03"
+            }
+        ]
+    },
+     {
+        "id": 7,
+        "name": "Elise Zakaria",
+        "email": "elisezakaria@gmail.com",
+        "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ285Mx1KYOiLgul1IITyLR6Biw5Z-NVAxCq2b8571nQuMYEZ75zxappc&s=10",
+        "password": "654321",
+        "saldo": 2000,
+        "pontos": 2600,
+        "extrato": [
+            {
+                "id": 1,
+                "descricao": "Compra de produto",
+                "valor": -650,
+                "data": "2024-06-01"
+            },
+            {
+                "id": 2,
+                "descricao": "Depósito",
+                "valor": 200,
+                "data": "2024-06-02"
+            },
+            {
+                "id": 3,
+                "descricao": "Compra de produto",
+                "valor": -180,
+                "data": "2024-06-03"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Walker Scobell",
+        "email": "walkerscobell@gmail.com",
+        "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ7dmUrMrwxBvaOVdjpV_5sAmpv8SHaWASJRfPLkiVow&s=10",
+        "password": "778899",
+        "saldo": 1850,
+        "pontos": 1900,
+        "extrato": [
+            {
+                "id": 1,
+                "descricao": "Compra de produto",
+                "valor": -400,
+                "data": "2024-06-01"
+            },
+            {
+                "id": 2,
+                "descricao": "Depósito",
+                "valor": 100,
+                "data": "2024-06-02"
+            },
+            {
+                "id": 3,
+                "descricao": "Compra de produto",
+                "valor": -200,
+                "data": "2024-06-03"
+            }
+        ]
+    },
+     {
+        "id": 9,
+        "name": "Ariana Grande",
+        "email": "arianagrande@gmail.com",
+        "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTejtBH-aIkHpOPpuHFzDp6tourLszXoBMcoo0Dpgb87HO3dQGzZSFJ1tKB&s=10",
+        "password": "15973",
+        "saldo": 1990,
+        "pontos": 1800,
+        "extrato": [
+            {
+                "id": 1,
+                "descricao": "Compra de produto",
+                "valor": -450,
+                "data": "2024-06-01"
+            },
+            {
+                "id": 2,
+                "descricao": "Depósito",
+                "valor": 210,
+                "data": "2024-06-02"
+            },
+            {
+                "id": 3,
+                "descricao": "Compra de produto",
+                "valor": -70,
+                "data": "2024-06-03"
+            }
+        ]
     }
 ]
